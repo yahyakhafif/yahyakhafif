@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yahyakhafif
 - 👀 I’m interested in self-driving cars and trading bots 
-- 🌱 I’m currently learning python and many more...
+- 🌱 I’m currently learning python and other langugaes...
 - 💞️ I’m looking to collaborate on prgramming projects that evolve around machine learning and data science
 - 📫 How to reach me yahya.khafif@centria.fi
 
