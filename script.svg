@@ -46,21 +46,21 @@ text, tspan {white-space: pre;}
     <tspan x="0" y="540">-*%%*@#@%%@@####@@@@ -#@@%@#=+**@@@#*=@@@@%@%@@%%%#%=#@@#*@@@ </tspan>
     <tspan x="0" y="560">*%@*@#%%#**#@@#%%%@@@:-#=#@@@@@@@#**+=@@@@@#%@@@%@#@*@#=@*#*@-</tspan>
     <tspan x="0" y="580">-#*@@#@%@@#@@=@@#%%%@#:*%-=*-++#+@*+:@@#@*%%#%#*%##%@*@@*@@@@.</tspan>
-    <tspan x="0" y="550">+@+@*@%*@**#%%@@#@#@@@%=*#*++=++#+-=@@@@#%@%@@@@@@@@@%**#***%-</tspan>
+    <tspan x="0" y="600">+@+@*@%*@**#%%@@#@#@@@%=*#*++=++#+-=@@@@#%@%@@@@@@@@@%**#***%-</tspan>
 </text>
-<text x="550" y="30" fill="#c9d1d9">
-<tspan x="550" y="30">yahyaKhafif</tspan> -———————————————————————————————————————————-—-
-<tspan x="550" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Mac OS, IOS, Ubuntu</tspan>
-<tspan x="550" y="70" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Airbus Defence and Space.</tspan>
-<tspan x="550" y="90" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VSCode, Pycharm</tspan>
-<tspan x="550" y="110" class="cc">. </tspan>
-<tspan x="550" y="130" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">C, C#, Javascript, Python, TypeScript</tspan>
-<tspan x="550" y="150" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Frameworks</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">React.js, Node.js, Flask</tspan>
-<tspan x="550" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">HTML, CSS, JSON, BASH, YAML</tspan>
-<tspan x="550" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Arabic, English, French</tspan>
-<tspan x="550" y="210" class="cc">. </tspan>
-<tspan x="550" y="30">- Contact</tspan> -——————————————————————————————————————————————-—-
-<tspan x="550" y="250" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Work</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">yahya.khafif@icloud.com</tspan>
-<tspan x="550" y="270" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">yahya khafif</tspan>
+<text x="600" y="30" fill="#c9d1d9">
+<tspan x="600" y="30">yahyaKhafif</tspan> -———————————————————————————————————————————-—-
+<tspan x="600" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">Mac OS, IOS, Ubuntu</tspan>
+<tspan x="600" y="70" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ..</tspan><tspan class="value">Airbus Defence and Space.</tspan>
+<tspan x="600" y="90" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ..</tspan><tspan class="value">VSCode, Pycharm</tspan>
+<tspan x="600" y="110" class="cc">. </tspan>
+<tspan x="600" y="130" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">C, C#, Javascript, Python, TypeScript</tspan>
+<tspan x="600" y="150" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Frameworks</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">React.js, Node.js, Flask</tspan>
+<tspan x="600" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">HTML, CSS, JSON, BASH, YAML</tspan>
+<tspan x="600" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">Arabic, English, French</tspan>
+<tspan x="600" y="210" class="cc">. </tspan>
+<tspan x="600" y="230">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="600" y="250" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Work</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">yahya.khafif@icloud.com</tspan>
+<tspan x="600" y="270" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">yahya khafif</tspan>
 </text>
 </svg>
